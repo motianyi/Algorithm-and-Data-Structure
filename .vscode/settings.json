@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "selectionsort.h": "c"
+    }
+}
